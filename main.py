@@ -7,7 +7,7 @@ to /output/entry.txt. Self-contained: no network, no input files.
 
 import os
 
-NOTE = "You left the door open 47 seconds. The ice maker and I have started a group chat about you."
+NOTE = "You left the door open 47 seconds. The yogurt saw the whole thing, and it has chosen a side."
 
 def main() -> None:
     os.makedirs("/output", exist_ok=True)
